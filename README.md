@@ -30,10 +30,17 @@
 ---
 
 ## 📂 Featured Projects
-### 🌟 [Binance API C#.NET Client](https://github.com/morpheums/Binance.API.Csharp.Client)
-A powerful and efficient C#.NET client for interacting with Binance Exchange APIs.  
-- ⭐ **141 stars** | 👁️ **87 forks**  
-- Written in C# with comprehensive API documentation.
+
+### 🌟 [Binance API Csharp Client](https://github.com/morpheums/Binance.API.Csharp.Client)
+![Icon](https://github.com/morpheums/Binance.API.Csharp.Client/blob/master/Binance.API.Csharp.Client/BinanceLogo.png?raw=true)
+
+#### C#.NET client for Binance Exchange API
+[![GitHub last commit](https://img.shields.io/github/last-commit/morpheums/Binance.API.Csharp.Client.svg?style=plastic)](https://github.com/morpheums/Binance.API.Csharp.Client)
+[![NuGet](https://img.shields.io/nuget/v/Binance.API.Csharp.Client.svg?style=plastic)](https://www.nuget.org/packages/Binance.API.Csharp.Client)
+[![NuGet](https://img.shields.io/nuget/dt/Binance.API.Csharp.Client.svg?style=plastic)](https://www.nuget.org/packages/Binance.API.Csharp.Client)
+
+- ⭐ **141 stars** | 👁️ **87 forks** | 📥 **Total Downloads: 50k+**
+- Supports **real-time and historical data retrieval, trading, and account management**.
 
 ### 🌟 [Cobinhood API C#.NET Client](https://github.com/morpheums/Cobinhood.API.Csharp.Client)
 An easy-to-use C#.NET client for Cobinhood Exchange APIs.  
